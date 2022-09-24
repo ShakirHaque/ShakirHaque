@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahmudul Haque Shakir 👋
 
-## I'm a Student , Developer, and good son!!
+## I'm a Student , Developer, and Good son!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to collaborate with another programmer.
