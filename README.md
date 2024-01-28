@@ -22,6 +22,7 @@ E-mail:shakirmahmudulhaque@gmail.com
 ---
 
 ### 📺 Latest Activities
+Web Tech(HTML, CSS, JAVA Script , PHP)
 
 
 
