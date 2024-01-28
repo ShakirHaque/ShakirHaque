@@ -22,7 +22,7 @@ E-mail:shakirmahmudulhaque@gmail.com
 ---
 
 ### 📺 Latest Activities
-<a htef="https://github.com/ShakirHaque/learning-web-technologies-spring2023-2024-sec-c.git">Web Tech(HTML, CSS, JAVA Script , PHP)</a>
+<a href="https://github.com/ShakirHaque/learning-web-technologies-spring2023-2024-sec-c.git">Web Tech(HTML, CSS, JAVA Script , PHP)</a>
 
 
 
