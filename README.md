@@ -13,9 +13,9 @@ E-mail:shakirmahmudulhaque@gmail.com
 
 <br />
 
-### Languages and Tools:
-
-
+### Languages :
+  Bangla
+  English 
 <br />
 <br />
 
@@ -28,7 +28,15 @@ E-mail:shakirmahmudulhaque@gmail.com
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Research On Going
+
+ Bangla Local Language
+
+
+---
+---
+
+### 📕 Research Paper (Published / Complect)
 
 <!-- BLOG-POST-LIST:START -->
 
