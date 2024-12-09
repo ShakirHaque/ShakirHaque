@@ -30,8 +30,8 @@ E-mail:shakirmahmudulhaque@gmail.com
 
 ### 📕 Research On Going
 
- 1.Bangla Local Language
- 2.Topic Modeling of Mpox-related Instagram Posts: Understanding Public Perception over Time.
+ 1.Bangla Local Language<br>
+ 2.Topic Modeling of Mpox-related Instagram Posts: Understanding Public Perception over Time.<br>
  3.Enhancing Financial Sentiment Analysis Using ML Models: A Comparative Study of Balanced vs. Imbalanced Datasets
  
 
@@ -39,7 +39,7 @@ E-mail:shakirmahmudulhaque@gmail.com
 ---
 
 ### 📕 Research Paper (Published / Complect)
-1.Exploring Mental Health Through Sentiment Analysis: Predictive Models Using Natural Language Processing(NLP)
+1.Exploring Mental Health Through Sentiment Analysis: Predictive Models Using Natural Language Processing(NLP)<br>
 2.Lung Cancer Detection Using Supervised Learning: Analyzing Balanced and Imbalanced Dataset Impacts
 
 <!-- BLOG-POST-LIST:START -->
